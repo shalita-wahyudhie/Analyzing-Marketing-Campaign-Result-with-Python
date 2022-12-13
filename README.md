@@ -21,12 +21,15 @@ Summary :
 2. House ads conversion rate dropped likely due to the language of the ads not matching the preferred language of viewer
 3. Lost subscribers due the the language bug is estimated to be 32 (1 Month campaign period)
 4. Overall lift of treatment over control in A/B testing is 80%
-5. Personalized ads perform much better in some marketing channels compared to the others (positive lift in Instagram, Facebook, Push, and Email)
-6. Personalized ads doesn't give positive change in conversion rate for house ads
-7. House ads are marketing channel with most viewers from every age group
+5. Younger viewers (up to 30 yrs) have higher conversion rate with personalized ads compared to control ads.
+6. Conversion rate on older viewers who recieved the personalized ads are lower than the ones who recieved the control ads.
+7. Personalized ads perform much better in some marketing channels compared to the others (positive lift in Instagram, Facebook, Push, and Email)
+8. Personalized ads doesn't give positive change in conversion rate for house ads
+9. House ads are marketing channel with most viewers from every age group
 
 Recommendation:
 
 1. Company should pay attention to the languages the ads were send in since it is proven to be a factor in the conversion rate.
-2. Company don't have to invest more to personalize ads on website (house ads) 
-3. Company should continue and improve the personalization of ads in Facebook, Instagram, and Push that is the channels with high lift for the personalized ad.
+2. Personalize ads only for viewers aged up to 30 years and not older.
+3. Company don't have to invest more to personalize ads on website (house ads) 
+4. Company should continue and improve the personalization of ads in Facebook, Instagram, and Push that is the channels with high lift for the personalized ad.
